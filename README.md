@@ -7,7 +7,7 @@ Este repositorio consiste en la recopilación de conceptos matemáticos necesari
 Usa el package manager de Python [pip](https://pip.pypa.io/en/stable/) para instalar las herramientas necesarias.
 
 ```bash
-pip install lumpy
+pip install numpy
 
 pip install pandas
 
