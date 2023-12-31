@@ -4,7 +4,7 @@ Este repositorio consiste en la recopilación de conceptos matemáticos necesari
 
 ## Installation
 
-Usa el package manager de Python [pip](https://pip.pypa.io/en/stable/) para instalar las herramientas necesarias.
+Usa el package manager de Python [pip](https://pypi.org/project/pip/) para instalar las herramientas necesarias.
 
 ```bash
 pip install numpy
@@ -15,7 +15,3 @@ pip install matplotlib
 
 pip install notebook
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
